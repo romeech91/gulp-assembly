@@ -8,7 +8,7 @@
 + browser-sync
 
 *****
-######Only run in terminal:
+-Only run in terminal:
 > gulp
 
 __©2019__
